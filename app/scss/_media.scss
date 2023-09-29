@@ -1,0 +1,122 @@
+@media (min-width: 2350px) {
+    .welcom_bonus_img,
+    .bonus_img {
+        width: 800px;
+    }
+    #lottie-animation {
+        width: 3020px;
+        transition: all 0.5s ease;
+    }
+    .bonus {
+        margin-bottom: 175px;
+    }
+    .button a {
+        font-size: 50px;
+        width: 350px;
+        height: 100px;
+    }
+}
+
+@media(max-width: 950px) {
+    .welcom_bonus_img {
+        width: 500px;
+        transition: all 0.5s ease;
+    }
+    .bonus {
+        transition: all 0.5s ease;
+        margin-bottom: 50px;
+    }
+    .bonus_img {
+        transition: all 0.5s ease;
+        width: 480px;
+    }
+    #lottie-animation {
+        width: 2840px;
+        transition: all 0.5s ease;
+    }
+    .footer__icons,
+    .footer_copyright {
+        transition: all 0.5s ease;
+        width: 500px;
+        margin: 0 auto;
+    }
+}
+
+@media(max-width: 525px) {
+    .welcom_bonus_img {
+        width: 400px;
+    }
+    .bonus {
+        margin-bottom: 30px;
+    }
+    .welcom_bonus {
+        margin-bottom: 200px;
+    }
+    .bonus_img {
+        width: 380px;
+    }
+    #lottie-animation {
+        width: 1940px;
+    }
+    .footer__icons,
+    .footer_copyright {
+        width: 330px;
+        font-size: 9px;
+    }
+}
+
+@media(max-width: 475px) {
+    .welcom_bonus_img {
+        width: 250px;
+    }
+    .bonus {
+        margin-bottom: 50px;
+    }
+    .bonus_img {
+        width: 280px;
+    }
+    #lottie-animation {
+        width: 1640px;
+    }
+    .button a {
+        font-size: 20px;
+        width: 170px;
+        height: 60px;
+    }
+    .footer__icons-item img {
+        width: 100px;
+    }
+    .footer__icons,
+    .footer_copyright {
+        width: 300px;
+        font-size: 9px;
+    }
+}
+
+@media(max-width: 420px) {
+    #lottie-animation {
+        width: 1740px;
+    }
+    .logo img {
+        transition: all 0.5s ease;
+        width: 200px;
+    }
+    .button a {
+        transition: all 0.5s ease;
+        font-size: 25px;
+        width: 200px;
+        height: 70px;
+    }
+    .welcom_bonus_img {
+        width: 280px;
+        transition: all 0.5s ease;
+    }
+    .bonus {
+        transition: all 0.5s ease;
+        margin-bottom: 50px;
+    }
+    .bonus_img {
+        transition: all 0.5s ease;
+        width: 250px;
+    }
+}
